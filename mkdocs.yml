@@ -1,0 +1,6 @@
+site_name: PBE_25.1_8001
+
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
